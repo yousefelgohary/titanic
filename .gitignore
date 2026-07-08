@@ -1,0 +1,36 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data
+# *.csv
+# *.dat
+# NOTE: titanic.csv is part of the repo, so we don't ignore all csvs globally unless intended.
