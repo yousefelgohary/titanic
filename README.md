@@ -171,7 +171,7 @@ The course covers the full data science pipeline — from raw data exploration t
 
 <div align="center">
 
-Made with ❤️ by **Yousef El-Gohary**
+Made with ❤️ by **Yousef Elgohary**
 
 [![GitHub](https://img.shields.io/badge/GitHub-yousefelgohary-181717?style=flat-square&logo=github)](https://github.com/yousefelgohary)
 
