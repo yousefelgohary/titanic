@@ -148,7 +148,6 @@ The app will open automatically at `http://localhost:8501` 🎉
 titanic/
 ├── app.py              # Main Streamlit dashboard application
 ├── titanic.csv         # Titanic passenger dataset (891 records)
-├── Recap.ipynb         # Jupyter notebook with EDA recap & analysis
 ├── requirements.txt    # Python dependencies (streamlit, pandas, plotly, numpy)
 ├── .gitignore          # Git ignore configuration
 └── README.md           # This file
